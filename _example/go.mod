@@ -5,7 +5,7 @@ go 1.24.1
 require (
 	github.com/rs/zerolog v1.34.0
 	github.com/weastur/resty-zerolog v1.0.0
-	resty.dev/v3 v3.0.0-beta.2
+	resty.dev/v3 v3.0.0-beta.3
 )
 
 require (
